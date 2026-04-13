@@ -95,11 +95,11 @@ Read and validate is successful
 Width of image ----> 1024
 Height of image ---> 768
 Checking capacity is successful
-Magic string encoded Successfully!
-File extension encoded Successfully!
+Magic string encoded successfully!
+File extension encoded successfully!
 File size encoded successfully!
 File data encoded successfully!
-Encoding of the file is successful
+The encoding of the file is successful
 ```
 
 ### 🔓 Decoding Process
