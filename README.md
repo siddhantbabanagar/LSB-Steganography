@@ -1,4 +1,4 @@
-# 🔐 LSB Steganography in C
+# 🔐 LSB Image Steganography in C
 
 ## 📌 Overview
 
